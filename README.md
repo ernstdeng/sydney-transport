@@ -7,3 +7,5 @@ Some ideas for the future!
 -  interactive map
 - add nodes for stations
 - add light rail, and metro networks later on.
+
+*Data sourced from TransportNSW.*
